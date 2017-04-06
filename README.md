@@ -9,3 +9,5 @@ makes them suitable for handling a large amount of data.
 
 This project illustrates the use of streaming APIs for converting a JSON values (address.json file ) into strings 
 and JSON array of the employee objects (employee.json file) into an appropriate Java class representation.
+
+*Use Java EE or SE with an imported ```javax.json``` library.*
